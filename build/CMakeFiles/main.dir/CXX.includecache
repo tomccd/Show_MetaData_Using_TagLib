@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomccd/Code/C++/show_Info_Media_File/Single_File/main.cpp
+taglib/fileref.h
+-
+taglib/tag.h
+-
+experimental/filesystem
+-
+iostream
+-
+
